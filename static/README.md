@@ -4,4 +4,4 @@
 
 - Minimum energy conical intersection (MECI) points, optimized with MRSF-TDDFT-DTCAM-AEE/6-31G* for R04 and R06
 
-- Scans along the C-N and C-S coordinate for R04 and R06 (CAM-B3LYP/def2-TZVP/CPCM(MeOH))
+- Scans energies along the C-N and C-S coordinate for R04 and R06 (CAM-B3LYP/def2-TZVP/CPCM(MeOH)) with relaxed S0 and S1

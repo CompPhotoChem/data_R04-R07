@@ -1,1 +1,3 @@
 # Static Data
+
+Ground-state minima obtained with CAM-B3LYP/def2-TZVP/CPCM(MeOH) for open, closed and ZI form of R04, R05, R06 and R07

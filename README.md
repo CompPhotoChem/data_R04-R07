@@ -25,7 +25,7 @@
 
 ---
 
-# Static Data
+# [Static Data](https://github.com/CompPhotoChem/data_R04-R07/tree/main/static)
 
 <details>
   <summary><strong>Ground-state equilibrium geometries</strong></summary>
@@ -124,7 +124,7 @@
 
 ---
 
-# Surface Hopping Data
+# [Surface Hopping Data](https://github.com/CompPhotoChem/data_R04-R07/tree/main/dynamic)
 
 The surface hopping data of R04 and R05 are provided in form of a shnitsel-dataset.
 

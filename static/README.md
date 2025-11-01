@@ -73,6 +73,9 @@
 - **Scan Coordinates**: distances
 - **Roots**: S<sub>0</sub> and S<sub>1</sub>
 
+- [Scan of C-N distance (R04 and R06)](https://github.com/CompPhotoChem/data_R04-R07/blob/main/static/scans/C-N.dat)
+- [Scan of C-S distance (R04 and R06)](https://github.com/CompPhotoChem/data_R04-R07/blob/main/static/scans/C-S.dat)
+
 ---
 
 ## [Minimum energy S<sub>0</sub>/S<sub>1</sub> conical intersection (MECI)](https://github.com/CompPhotoChem/data_R04-R07/tree/main/static/MECI)

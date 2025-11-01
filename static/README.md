@@ -7,24 +7,34 @@
 - **Level of Theory**: CAM-B3LYP/def2-TZVP/CPCM(MeOH)
 
 <details>
-<summary><strong>Open Isomers</strong></summary>
-<href='https://github.com/CompPhotoChem/data_R04-R07/blob/main/static/GS_minima/R04_zi' target='_blank'><b>R04-open (D-open)</b><href><br>
-<href='https://github.com/CompPhotoChem/data_R04-R07/blob/main/static/GS_minima/R04_zi'><b>R04-open (D-open)</b><href><br>
-<href='https://github.com/CompPhotoChem/data_R04-R07/blob/main/static/GS_minima/R04_zi'><b>R04-open (D-open)</b><href><br>
+  <summary><strong>Open Isomers</strong></summary>
+
+  - [R04-open (D-open)](https://github.com/CompPhotoChem/data_R04-R07/blob/main/static/GS_minima/R04_open.xyz)
+  - [R05-open (D<sup>F</sup>-open)](https://github.com/CompPhotoChem/data_R04-R07/blob/main/static/GS_minima/R05_open.xyz)
+  - [R06-open (K-open)](https://github.com/CompPhotoChem/data_R04-R07/blob/main/static/GS_minima/R06_open.xyz)
+  - [R07-open (K<sup>H</sup>-open)](https://github.com/CompPhotoChem/data_R04-R07/blob/main/static/GS_minima/R07_open.xyz)
+
 </details>
 
-...
+<details>
+  <summary><strong>Closed Isomers</strong></summary>
 
-### Closed Isomers
+  - [R04-closed (D-closed)](https://github.com/CompPhotoChem/data_R04-R07/blob/main/static/GS_minima/R04_closed.xyz)
+  - [R05-closed (D<sup>F</sup>-closed)](https://github.com/CompPhotoChem/data_R04-R07/blob/main/static/GS_minima/R05_closed.xyz)
+  - [R06-closed (K-closed)](https://github.com/CompPhotoChem/data_R04-R07/blob/main/static/GS_minima/R06_closed.xyz)
+  - [R07-closed (K<sup>H</sup>-closed)](https://github.com/CompPhotoChem/data_R04-R07/blob/main/static/GS_minima/R07_closed.xyz)
 
-...
+</details>
 
-### Zwitterionic Isomers
+<details>
+  <summary><strong>Zwitterionic Isomers</strong></summary>
 
-- [**R04**-ZI](https://github.com/CompPhotoChem/data_R04-R07/blob/main/static/GS_minima/R04_zi)
-- [**R05**-ZI](https://github.com/CompPhotoChem/data_R04-R07/blob/main/static/GS_minima/R05_zi)
-- [**R06**-ZI](https://github.com/CompPhotoChem/data_R04-R07/blob/main/static/GS_minima/R06_zi)
-- [**R07**-ZI](https://github.com/CompPhotoChem/data_R04-R07/blob/main/static/GS_minima/R07_zi)
+  - [R04-ZI (D-ZI)](https://github.com/CompPhotoChem/data_R04-R07/blob/main/static/GS_minima/R04_zi.xyz)
+  - [R05-ZI (D<sup>F</sup>-ZI)](https://github.com/CompPhotoChem/data_R04-R07/blob/main/static/GS_minima/R05_zi.xyz)
+  - [R06-ZI (K-ZI)](https://github.com/CompPhotoChem/data_R04-R07/blob/main/static/GS_minima/R06_zi.xyz)
+  - [R07-ZI (K<sup>H</sup>-ZI)](https://github.com/CompPhotoChem/data_R04-R07/blob/main/static/GS_minima/R07_zi.xyz)
+
+</details>
 
 
 ## [Ground-state absorption properties](https://github.com/CompPhotoChem/data_R04-R07/tree/main/static/absorption)

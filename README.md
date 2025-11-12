@@ -126,7 +126,7 @@
 
 # [Surface Hopping Data](https://github.com/CompPhotoChem/data_R04-R07/tree/main/dynamic)
 
-The surface hopping data of R04 and R05 are provided in form of a shnitsel-dataset.
+The surface hopping data of R04 and R06 are provided in form of a shnitsel-dataset.
 
 **Details about trajectory data**
 

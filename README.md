@@ -126,8 +126,14 @@
 
 # [Surface Hopping Data](https://github.com/CompPhotoChem/data_R04-R07/tree/main/dynamic)
 
-The surface hopping data of R04 and R06 are provided in form of a shnitsel-dataset.
+The surface hopping data of R04 and R06 are provided in form of a shnitsel-dataset (created with ![shnitsel-tools](https://github.com/SHNITSEL/shnitsel-tools)).
+Details about the surface hopping data and the data are located on Zenodo:
 
-**Details about trajectory data**
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17600688.svg)](https://doi.org/10.5281/zenodo.17600688)
 
-- [trajectory data of R04 and R06](10.5281/zenodo.17600688)
+---
+
+### Zenodo Links
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17600688.svg)](https://doi.org/10.5281/zenodo.17600688)
+

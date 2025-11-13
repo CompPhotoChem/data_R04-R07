@@ -130,4 +130,4 @@ The surface hopping data of R04 and R06 are provided in form of a shnitsel-datas
 
 **Details about trajectory data**
 
-
+- [trajectory data of R04 and R06](10.5281/zenodo.17600688)

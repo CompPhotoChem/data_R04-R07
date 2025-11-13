@@ -121,6 +121,9 @@
   - [K-CI<sub><i>thiazole*</i></sub>](https://github.com/CompPhotoChem/data_R04-R07/blob/main/static/MECI/R06_thiazole2.xyz)
 
 </details>
+<br>
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17600688.svg)](https://doi.org/10.5281/zenodo.17600688)
 
 ---
 
@@ -132,8 +135,4 @@ Details about the surface hopping data and the data are located on Zenodo:
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17600688.svg)](https://doi.org/10.5281/zenodo.17600688)
 
 ---
-
-### Zenodo Links
-
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17600688.svg)](https://doi.org/10.5281/zenodo.17600688)
 
